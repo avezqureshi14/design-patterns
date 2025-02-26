@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2017", // Change this from "ES6" to "ES2017"
+    "lib": [
+      "ES2017",
+      "DOM"
+    ], // Ensure ES2017 is included
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
