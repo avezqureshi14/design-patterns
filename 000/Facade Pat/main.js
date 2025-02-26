@@ -1,4 +1,3 @@
-
 // The Facade Design Pattern is a structural design pattern that provides a simplified interface to a complex subsystem, making it easier for clients to interact with it.The idea is to "hide" the complexities of the system and provide a cleaner, more straightforward API or interface for the client
 
 // Subsystem 1: Seat Inventory
